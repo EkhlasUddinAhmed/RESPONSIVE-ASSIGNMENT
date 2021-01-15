@@ -1,0 +1,90 @@
+.container h1{
+    color:#F9BD4C;
+}
+.giveColor{
+
+    color: #363857;
+}
+.btn-Color{
+
+    background-color: #86A21B;
+}
+.link-button{
+
+    text-decoration: none;
+    background:#86A21B;
+     color: white; 
+    margin-top: 5px;
+    padding: 20px 20px;
+    border-radius: 5px;
+    /* color: white; */
+    font-weight: bold;
+    position:relative;
+    top: 20px;
+    height:50px;
+    
+    
+}
+.womenJacketBackGround{
+
+    background-color: #F1F1F1;
+}
+.outer{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.inner{
+
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    
+         
+}.
+.entertainment{
+    flex: auto;
+}
+.imageSize img{
+
+     height: 100%;
+     width:100%;
+     
+     background-color:#F1F1F1 ;
+     
+
+
+}
+
+
+.divSize{
+
+    
+    width:300px;
+    height:350px;
+    
+    
+}
+.border-Exit{
+
+    border: 0;
+}
+.sizingDIV{
+
+    width:50%;
+    height: 33%;
+}
+.cardShadow{
+    box-shadow: 5px 5px 2px gray;
+
+
+}
+.cardShadow2{
+    box-shadow: -10px -10px -5px darkblue;
+
+
+}
+.setColr{
+    color: blue;
+}
